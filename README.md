@@ -10,18 +10,17 @@
 
 ### About Me
 
-- Full Stack Developer passionate about building real-world web applications.
-- Focused on writing clean, maintainable, and efficient code.
-- Interested in both backend logic and smooth user interface experiences.
-- Always learning and improving my development skills.
-
+- Full Stack Developer passionate about building real-world and scalable web applications.
+- Focused on writing clean, maintainable code and building smooth user experiences.
+- Continuously learning new technologies to improve development skills.
+  
+🌐 Portfolio: [Visit My Portfolio](https://your-portfolio-link.com](https://portfolio-logesh-m.vercel.app/))
 
 ### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,c,react,html,css,tailwind,django,mysql,postgres,firebase" />
 </p>
-
 
 ### Tools
 
