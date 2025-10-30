@@ -1,57 +1,49 @@
-# 👋 Hi there, I'm **M. Logesh**
+<div align="center">
+  
+# 👋 Hey, I'm **Logesh**
+### Full Stack Developer | Building Digital Experiences
 
-🎯 **Full Stack Developer** | 💻 Passionate about building efficient, scalable web applications
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+Learning+New+Things!&center=true&width=500&height=45" />
+</p>
 
----
-
-## 🚀 About Me
-- 🌱 I love working with **modern web technologies**
-- 🧠 Constantly learning and improving my skills in **full-stack development**
-- 💡 Enjoy solving real-world problems through code
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css)
-
-### ⚙️ Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+</div>
 
 ---
 
-## 🌐 Portfolio
-🔗 [**Visit My Portfolio Website →**](https://your-portfolio-link.com)
+## About Me
+
+- Full Stack Developer passionate about building real-world web applications.
+- Focused on writing clean, maintainable, and efficient code.
+- Interested in both backend logic and smooth user interface experiences.
+- Always learning and improving my development skills.
 
 ---
 
-## 📫 Contact Me
-📧 **Email:** [logeshm724@gmail.com](mailto:logeshm724@gmail.com)  
-📱 **Phone:** +91 9025982477  
-💼 **GitHub:** [@logeshm7](https://github.com/logeshm7)
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,react,html,css,tailwind,django,mysql,postgres,firebase" />
+</p>
 
 ---
 
-⭐ *“Code. Create. Contribute.”*  
+## Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" width="45" height="45" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="space-around">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-LOGESH&show_icons=true&theme=dark" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-LOGESH&layout=compact&theme=dark" height="160px" />
+</p>
+
+---
+
+<p align="center">⚡ Currently rendering dreams... and errors ⚡</p>
