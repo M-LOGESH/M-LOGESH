@@ -13,8 +13,8 @@
 - Full Stack Developer passionate about building real-world and scalable web applications.
 - Focused on writing clean, maintainable code and building smooth user experiences.
 - Continuously learning new technologies to improve development skills.
-  
-🌐 Portfolio: [Visit My Portfolio](https://your-portfolio-link.com](https://portfolio-logesh-m.vercel.app/))
+
+🌐 Portfolio: **[Visit My Portfolio](https://portfolio-logesh-m.vercel.app/)**
 
 ### Tech Stack
 
